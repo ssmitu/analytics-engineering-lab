@@ -58,6 +58,21 @@ This helped me understand the difference between:
 
 ---
 
+### 5. Total sales attributed to each director
+
+**Goal:**  
+Calculate the combined movie sales associated with each director.
+
+**My thinking:**  
+Movie information and sales information were stored in separate tables, so an `INNER JOIN` was required before aggregation.
+
+After connecting both tables, I grouped records by director and used:
+- `COUNT()` to measure how many movies each director handled
+- `SUM()` to calculate combined domestic and international sales
+
+This query combined joins, expressions, and aggregations together into a more realistic reporting-style analysis.
+
+---
 ## Key Takeaway
 
 Aggregation queries shift SQL thinking from individual rows to summarized insights.
