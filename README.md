@@ -23,7 +23,7 @@ The goal of this repository is to track consistent technical growth through stru
 analytics-engineering-lab/
 │
 ├── 01_sql_foundations/
-├── 02_advanced_sql/
+├── 02_sql_problem_solving/
 ├── 03_real_world_analysis/
 ├── 04_interview_practice/
 ├── 05_database_design/
