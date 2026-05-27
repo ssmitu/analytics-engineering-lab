@@ -47,9 +47,9 @@ analytics-engineering-lab/
 
 ### Phase 1 — SQL Foundations
 - [x] Repository setup
-- [ ] SQL fundamentals
-- [ ] Filtering & aggregation
-- [ ] Joins & subqueries
+- [x] SQL fundamentals
+- [x] Filtering & aggregation
+- [x] Joins & subqueries
 - [ ] Practice problems
 
 ### Phase 2 — Advanced SQL & Analytics
