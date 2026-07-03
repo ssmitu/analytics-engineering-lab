@@ -50,13 +50,13 @@ analytics-engineering-lab/
 - [x] SQL fundamentals
 - [x] Filtering & aggregation
 - [x] Joins & subqueries
-- [ ] Practice problems
+- [x] Practice problems
 
 ### Phase 2 — Advanced SQL & Analytics
-- [ ] Window functions
-- [ ] CTEs and query refactoring
-- [ ] Real-world SQL case studies
-- [ ] Interview-style SQL challenges
+- [x] Window functions
+- [x] CTEs and query refactoring
+- [x] Real-world SQL case studies
+- [x] Interview-style SQL challenges
 
 ### Phase 3 — Data Modeling & BI
 - [ ] Database normalization
